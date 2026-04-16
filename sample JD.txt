@@ -1,0 +1,34 @@
+Job Title: Senior Software Engineer
+Location: Remote
+Job Type: Full-Time
+Job ID: JD-2025-001
+
+Job Description:
+We are seeking a highly skilled Senior Software Engineer to join our innovative tech team. The ideal candidate will design, develop, and maintain robust software solutions using modern technologies. Responsibilities include writing clean, efficient code, collaborating with cross-functional teams, and implementing best practices in software development. You will work on cloud-based applications, leveraging tools like AWS and Docker, and contribute to the full software development lifecycle.
+
+Key Responsibilities:
+- Develop and maintain high-quality software applications.
+- Collaborate with product managers and designers to define requirements.
+- Optimize applications for performance and scalability.
+- Mentor junior developers and conduct code reviews.
+- Stay updated with emerging technologies and integrate them into projects.
+
+Required Skills:
+- Proficiency in Python, Java, and SQL.
+- Experience with AWS, Docker, and Kubernetes.
+- Strong knowledge of software engineering principles.
+- Excellent communication and leadership skills.
+
+Preferred Qualifications:
+- 5+ years of software development experience.
+- Familiarity with DevOps practices and CI/CD pipelines.
+- Previous experience in a tech or finance domain.
+
+Benefits:
+- Competitive salary and stock options.
+- Flexible remote work environment.
+- Health, dental, and vision insurance.
+- Professional development opportunities.
+
+To Apply:
+Please submit your resume and a cover letter detailing your experience with cloud technologies to careers@techinnovate.com.
